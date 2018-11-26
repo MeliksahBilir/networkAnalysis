@@ -1,5 +1,5 @@
 # Network Analysis
- Paket analiz programıdır. Gönderdiniğiniz yada aldığınız ARP, UDP, TCP, DNS vb. paketlerin iç yapılarını inceler.
+ Paket analiz programıdır. Dijital yaşamda cihazlarınızdan gönderdiğiniz yada aldığınız ARP, UDP, TCP, DNS vb. paketlerin iç yapılarını inceler.
  
 # Kullanılan Kütüphaneler
  * PyQt4
